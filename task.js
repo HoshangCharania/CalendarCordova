@@ -1,4 +1,4 @@
-function openTab1()
+/*function openTab1()
     {
         window.location.assign("Overview.html");
     }
@@ -14,7 +14,7 @@ function openTab3()
 function openActivity1()
 	{
 		window.location.assign("ActivityPg1.html");
-	}
+	}*/
 function addTask()
 	{
 		//To be filled
